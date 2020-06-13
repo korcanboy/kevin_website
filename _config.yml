@@ -1,0 +1,13 @@
+# Site settings
+title: Kevin Chung
+email: 
+description: My website> # this means to ignore newlines until "baseurl:"
+# baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://kevinyoungchung.me" # the base hostname & protocol for your site
+
+# twitter_username:
+# github_username:
+
+# Build settings
+markdown: kramdown
+

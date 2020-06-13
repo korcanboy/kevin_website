@@ -1,0 +1,29 @@
+email:
+  id: 'your.name@yoursite.com'
+  href: 'mailto:'
+  title: 'Email'
+  fa-icon: 'fa-envelope'
+
+github:
+  id: 'korcanboy'
+  href: 'https://github.com/korcanboy'
+  title: 'github'
+  fa-icon: 'fa fa-github'
+
+soundcloud: 
+  id: 'korcanboy_sound'
+  href: 'https://soundcloud.com/korcanboy'
+  title: 'Soundcloud'
+  fa-icon: 'fa fa-soundcloud'
+
+linkedin: 
+  id: 'Kevin'
+  href: 'https://www.linkedin.com/in/kchung12/'
+  title: 'Linkedin'
+  fa-icon: 'fa fa-linkedin'
+
+medium:
+  id: 'korcanboy_medium'
+  href: 'https://medium.com/@kevchung123'
+  title: 'Medium'
+  fa-icon: 'fa fa-medium'
